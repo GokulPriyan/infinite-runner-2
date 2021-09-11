@@ -1,1 +1,2 @@
-# infinite-runner-2
+# T-Rex Game
+T-Rex Game remade with camera view
